@@ -1,10 +1,14 @@
-<!DOCTYPE html>
+<Module>
+    <ModulePrefs title="Classroom" />
+    <Content type="html">
+        <![CDATA[
+		<!DOCTYPE html>
 <html lang="en">
 <head>
 	
 	<meta charset="utf-8">
 	
-	<title>Level Devil Unblocked - ClassRoom6x</title>
+	<title>Classroom</title>
 	<meta name="website" content="classroom6x.gitlab.io" />
 	<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 	<meta name="apple-mobile-web-app-capable" content="yes">
@@ -48,3 +52,6 @@
  -->
 </body>
 </html>
+            ]]>
+    </Content>
+</Module>
